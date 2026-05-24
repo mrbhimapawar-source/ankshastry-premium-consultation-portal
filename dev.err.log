@@ -1,0 +1,30 @@
+ ⨯ ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[2]!./styles/globals.css
+Error: Cannot find module 'autoprefixer'
+Require stack:
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack\config\blocks\css\plugins.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack\config\blocks\css\index.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack\config\index.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack-config.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\lib\start-server.js
+    at Array.map (<anonymous>)
+Import trace for requested module:
+./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[2]!./styles/globals.css
+./styles/globals.css
+ ⨯ ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[2]!./styles/globals.css
+Error: Cannot find module 'autoprefixer'
+Require stack:
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack\config\blocks\css\plugins.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack\config\blocks\css\index.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack\config\index.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\build\webpack-config.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\dev\hot-reloader-webpack.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\lib\router-utils\setup-dev-bundler.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\lib\router-server.js
+- C:\Users\Ankshastry\Documents\p1\node_modules\next\dist\server\lib\start-server.js
+    at Array.map (<anonymous>)
+Import trace for requested module:
+./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[7].oneOf[14].use[2]!./styles/globals.css
+./styles/globals.css
